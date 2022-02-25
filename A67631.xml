@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A countermine of union to the Jesuites myne of division, whereby they contrive the blasting of the work of mercy, and the return of a flood of ruine and desolation upon this church and nation being a short platform of expedients for peace, for the preservation of all and for the repair of the great distractions that have bin upon us, by an happy reconciliation of the differences that are amongst us, directed to the honourable Council of State / by Tho. VVarmstry.</title>
+            <author>Warmstry, Thomas, 1610-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67631</idno>
+            <idno type="STC">Wing W883</idno>
+            <idno type="STC">ESTC R38491</idno>
+            <idno type="EEBO-CITATION">17512911</idno>
+            <idno type="OCLC">ocm 17512911</idno>
+            <idno type="VID">106524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67631)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1107:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A countermine of union to the Jesuites myne of division, whereby they contrive the blasting of the work of mercy, and the return of a flood of ruine and desolation upon this church and nation being a short platform of expedients for peace, for the preservation of all and for the repair of the great distractions that have bin upon us, by an happy reconciliation of the differences that are amongst us, directed to the honourable Council of State / by Tho. VVarmstry.</title>
+                  <author>Warmstry, Thomas, 1610-1665.</author>
+               </titleStmt>
+               <extent>[4], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Williams ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with some loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  England.</term>
+               <term>Toleration.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106524:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:106524:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>A COUNTERMINE OF UNION TO THE JESUITES <hi>Myne of Diviſion,</hi> Whereby they Contrive <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Blaſting of the Work of Mercy, and the Return of a Flood of Ruine and Deſolation upon this Church and Nation.</p>
+            <p>Being a ſhort PLATFORM OF <hi>Expedients</hi> for <hi>Peace,</hi> For the Preſervation of all, and for the Repair of the Great Diſtractions that have bin upon us, by an Happy Reconciliation of the Differences that are amongſt us, Directed to the Right Honourable, THE Council OF State.</p>
+            <p>By <hi>THO. VVARMSTRY,</hi> D. D.</p>
+            <q>
+               <bibl>ROM. 12.18.</bibl>
+               <p>If it be poſſible, as much as lieth in you, live peaceably with all men.</p>
+            </q>
+            <q>
+               <bibl>ROM. 14.19.</bibl>
+               <p>Let us therefore follow after the things that make for Peace, and things wherewith one may edifie another.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Williams</hi> at the Crown in Saint <hi>Pauls</hi> Church yard. 1660.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:106524:2"/>
+            <!-- PDF PAGE 16 -->
+            <pb facs="tcp:106524:2"/>
+            <!-- PDF PAGE 16 -->
+            <head>TO THE RIGHT HONOURABLE THE <hi>LORD PRESIDENT</hi> AND THE Councel OF State.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleaſed the Lord to raiſe you up to be Inſtruments of Mercy, and Bleſſing, and Peace, unto this afflict<g ref="char:EOLhyphen"/>ed and diſtracted Church and Nation; He hath led you on unto this Bleſſed Work, by ſtrange Operations of his Divine Providence, by Wonderful Returns unto the prayers of his people, and by a Hand ſtretched out from Heaven; He hath done great Things for you, and by you, for his people; And hath ſet Honour and Happineſſe before you, that your Names may be precious to all Generations: But yet the Work is not ſo ſecure, but that Imprudence in ſome, and Violence in others, and Malice in thoſe that are enemies to your worthy Proceedings, are too too buſie to obſtruct and overturn the glorious Buſineſſe you have in Hand. There is great need of Watchfulneſſe and Moderation, to make way for an Happy Iſſue unto your Proceedings. That
+<pb facs="tcp:106524:3"/>
+               <!-- PDF PAGE 17 -->therefore I may be in ſome meaſure ſerviceable unto GOD, and You, and his People in This, (as we are all bound to wait upon Him and You, as his Inſtruments therein) I crave leave humbly to preſent theſe ſhort Ex<g ref="char:EOLhyphen"/>pedients for Peace unto your Hands, Which if you ſhall be pleaſed to accept and countenance, The Beames of your favour, I hope, will make them grow, and bring forth the deſired Fruit; And thereby you will exceedingly Oblige</p>
+            <closer>
+               <signed>Your Humble and Faithful Servant in all the Wayes of Holy and Righteous Peace, <hi>T. VV.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106524:3"/>
+            <!-- PDF PAGE 17 -->
+            <head>EXPEDIENTS FOR PEACE.</head>
+            <p n="1">1.<seg rend="decorInit">T</seg>Hat we all labour to reconcile God unto us, and to obtain peace with him, by an humble confeſſion of our ſeverall ſins, and true and Godly ſorrow, from them, and converſion from them and by flying unto his mercy by true faith in Chriſt Jeſus, for as our diviſion from God, who is the Center of our Union, is the fountain of all our diſcord with one ano<g ref="char:EOLhyphen"/>ther; ſo our reconciliation unto him, muſt be the foun<g ref="char:EOLhyphen"/>dation of our reconciliation and peace with one another; which cannot otherwiſe be comfortably obtained, nor firmly eſtabliſhed, <hi>Iſa.</hi> 57.23. <hi>There is no peace to the wick<g ref="char:EOLhyphen"/>ed, ſaith my God.</hi>
+            </p>
+            <p n="2">2. That all ſpiritual Tyranny be laid aſide whereby men take upon them to make their judgements or apprehen<g ref="char:EOLhyphen"/>ſions; and too too often their paſſions, and intereſts, the rule of other mens conſciences. And that the impoſing of rules be left unto the Magiſtrate and Governour.</p>
+            <p n="3">3. That the ſpirit of abomination may be abandoned, whereby Sathan hath taught people to reject things as wicked and impious, becauſe others whom they diſlike
+<pb n="2" facs="tcp:106524:4"/>
+               <!-- PDF PAGE 18 -->embrace them. And that the faults of perſons, may not be laid upon callings, or upon their tenents.</p>
+            <p n="4">4. That we may take heed of a private ſpirit, whereby people are ſo apt to require, that all things may be done to the ſatisfaction of them, and of their party; without any or at leaſt an equall regard unto others, as if their con<g ref="char:EOLhyphen"/>cernments were the onely intereſt of the world, and their apprehenſions or opinions, the rules of Government to all mankinde. Which abominable pride, and uncharitable neglect of others, is the great Mine of diviſion. But we muſt remember that the deſigne of the framing and re<g ref="char:EOLhyphen"/>forming of Church-matters, is not only to pleaſe or ſa<g ref="char:EOLhyphen"/>tisfie, thoſe that are of this or that perſwaſion, but to pro<g ref="char:EOLhyphen"/>vide for the good of all. Not only to ſecure or rectifie thoſe that are within, but alſo to gaine and bring in thoſe that are without, 1 <hi>Cor.</hi> 10.32. <hi>We muſt give no offence, neither to the Jewes, nor to the Gentiles, nor to the Church of God.</hi> 1 <hi>Cor.</hi> 9.21. <hi>But become all things to all men, that by all meanes we may gaine ſome.</hi> We muſt conſider what is the concernments of Papiſts, of Turkes, of Jewes, of Heathens, as well as of our ſelves; That we may remove all impediments and diſcouragements from them, and give them all inducements, and helps, that we can, to bring them into the truth. It is a very great miſtake in the re<g ref="char:EOLhyphen"/>forming of things in the Church, to go as far as we can, from thoſe that are ſtrangers or enemies to the truth. In<g ref="char:EOLhyphen"/>deed we ſhould come as neer them, as God will give us leave, that we may bring them over unto us. I admire the wiſdome of our reformers in this Point, and fee and pitty the follies of thoſe that are wifer in their own con<g ref="char:EOLhyphen"/>ceipts; We ſhould aske our ſelves ſome times the queſtion, <hi>Quota pars mundi ſumus:</hi> how great a part of the World we are. And not ſet ſuch a valew upon our
+<pb n="3" facs="tcp:106524:4"/>
+               <!-- PDF PAGE 18 -->ſelves, as if all the reſt of the World muſt be left to pe<g ref="char:EOLhyphen"/>riſh for our ſatisfaction.</p>
+            <p n="5">5. That in the framing of Church-diſcipline and order, the weakeſt Chriſtian among us, may be moſt conſidered. <hi>Rom.</hi> 15.1. For <hi>they that are ſtrong muſt beare the infirmities of the weak.</hi> but the weak cannot come up to the ſtrength of the Strong. <hi>Gen.</hi> 33.13, 14. <hi>Jacob</hi> muſt not overd-rive his Flock, but muſt keep pace with the Women and Children, though <hi>Eſau</hi> out-ranne them, and will not keep them company.</p>
+            <p n="6">6. That it be reſolved that the peace of the Church, is above all Ceremonies whatſoever. And that thoſe things ought to be ordered not by private men, but by Govern<g ref="char:EOLhyphen"/>ours, as appeareth moſt conducible to edification, and con<g ref="char:EOLhyphen"/>verſion. And that theſe walls of the Church, ſhould be made all of Load-ſtone; not only to defend thoſe that are within by their ſtrength, but alſo to draw thoſe that are without. And we muſt take heed of that fooliſh and per<g ref="char:EOLhyphen"/>nicious errour, which is ſo often committed in the ſpiri<g ref="char:EOLhyphen"/>tuall Architecture of theſe latter dayes. Whereby men are ſo intent, upon the ſatisfaction and the making of the Wall, that they forget to make the Gate, to admit others in or to let us out to them, to do them good. And have gone about to bring the Church to the ſtate of Laiſh in too too great a meaſure, <hi>Judg.</hi> 18.7. <hi>To have no buſineſſe with any man.</hi> We muſt remember the true Church hath the charge of the falſe and corrupt members of the World, to endeavour to ſave and bring them in.</p>
+            <p n="7">7. That all names of ſtrife and diviſion (as to any odious or contumelious uſe of them) may be aboliſhed, as Puritans, Presbyterians, Independents, Caveliers, &amp;c. that they may not be Enſignes of contention amongſt us.</p>
+            <p n="8">
+               <pb n="4" facs="tcp:106524:5"/>
+               <!-- PDF PAGE 19 -->
+8. That the comprehenſive way may be embraced in matters of difference That is to ſay; that way, that may ſatisfie all as much as may be. As in the caſe of Epiſ<g ref="char:EOLhyphen"/>copacy and Presbytery, where ſome would have the Go<g ref="char:EOLhyphen"/>vernment to be by Epiſcopacy, others by Presbytery. Let them be both joyned in a moderate ſubordination to end the quarrell; which is otherwiſe never like to be de<g ref="char:EOLhyphen"/>cided.</p>
+            <p n="9">9. That the ſafe way where it is to be found, may ſilence controverſies and diſcourſes concerning wayes that are more dangerous, <hi>viz.</hi> That that which is ſafe may be embraced, and that which appeareth queſtiona<g ref="char:EOLhyphen"/>ble rejected.</p>
+            <p n="10">10. That all the Rules of God, as well one, as ano<g ref="char:EOLhyphen"/>ther, yet in their ſeverall orders may be acknowledged and owned, <hi>viz.</hi>
+               <list>
+                  <item>1. The Rule of truth, of holineſs, juſtice, and purity.</item>
+                  <item>2. of Order.</item>
+                  <item>3. of Charity.</item>
+                  <item>4. of Expedience.</item>
+               </list>
+            </p>
+            <p>And that that wiſe ſaying of Mr. <hi>Calvin</hi> may be em<g ref="char:EOLhyphen"/>braced and practiſed, <hi>Sicut Charitas fidei, ita libertas ſubjicienda est Charitati.</hi> As our charity is to be ſubject un<g ref="char:EOLhyphen"/>to our faith, ſo our liberty is to be ſubject unto our cha<g ref="char:EOLhyphen"/>rity.</p>
+            <p n="11">11. That there may be ſome of the moſt moderate, and ſincere, uningaged of all parties choſen, to enter<g ref="char:EOLhyphen"/>taine a faire diſcourſe about matters in controverſy, and a moderatour appointed, and that this be managed in private, that weak People may not be preſent, who are not able to judg of the force of an Argument. Re<g ref="char:EOLhyphen"/>membring the Rule of the holy Apoſtle. <hi>Rom.</hi> 14.1. <hi>Him that is weak in the faith receive ye, but not to doubtfull diſputations.</hi>
+            </p>
+            <p n="12">
+               <pb n="5" facs="tcp:106524:5"/>
+               <!-- PDF PAGE 19 -->
+12. T<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the proceeding may be not by formall diſ<g ref="char:EOLhyphen"/>putation, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich hath in it ſo much of engagement to oppoſition, but by a more familiar way of diſcourſe.</p>
+            <p n="13">13. That the things wherein the ſeverall parties differ from one another, may be drawn up into a ſummary or briefe, that they may be propoſed to conſideration.</p>
+            <p n="14">14. That the firſt conſideration may be, whether the controverſie be worth the debating, whether the queſti<g ref="char:EOLhyphen"/>on be materiall to be decided or no, and if not, that it may be caſt out.</p>
+            <p n="15">15. That in caſe the controverſy be of weight, it be conſidered whether a faire interpretation of one another, may not reconcile the difference, and that all <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or quarrell about words may be ſtudiouſly prevented, and a<g ref="char:EOLhyphen"/>voyded, together with all bitterneſſe of language, and violence of Spirit.</p>
+            <p n="16">16. That thoſe things wherein we differ may be com<g ref="char:EOLhyphen"/>poſed, by an appeale to thoſe things wherein we a<g ref="char:EOLhyphen"/>gree.</p>
+            <p n="17">17. That miſteries of Religion be allowed to be above the ſearch of humane reaſon, and not expoſed to the un<g ref="char:EOLhyphen"/>ſound force of arguments, drawn <hi>ab abſurdo Conſequente</hi> from abſurd conſequences, which is not ſafe to be uſed but in matters that are cleare unto reaſon.</p>
+            <p n="18">18. That the analogy of the Text and Analogy of Faith; together with the univerſall doctrine and practiſe of the Church, be admitted for the great deciders of differences.</p>
+            <p n="19">19. That worldly intereſt of all ſorts may be ſhut out for a wrangler and a make-bate, and that all theſe things be reſigned up entirely to the Parliament; remembring that he is injurious that ſeeketh to obtaine that which is other<g ref="char:EOLhyphen"/>wiſe
+<pb n="6" facs="tcp:106524:6"/>
+               <!-- PDF PAGE 20 -->his private right, either by procureing a publique ruine, or by hindering the publique good.</p>
+            <p n="20">20. That Curioſities in Religion may be laid aſide, and ſecret things may be left unto God, and faith and re<g ref="char:EOLhyphen"/>pentance look't after, according to that excellent conclu<g ref="char:EOLhyphen"/>ſion of <hi>Moſes, Deut.</hi> 29.29. <hi>The ſecret things belong unto the Lord our God, but the things that are revealed unto us, and to our Children for ever that we may do all the works of this Law.</hi>
+            </p>
+            <p>To conclude, let <hi>pride, ambition, covetouſneſſe, ſuſpition,</hi> which is, <hi>venenum amicitiae,</hi> the <hi>poyſon of peace</hi> and <hi>amity,</hi> be abandoned, let all reſolve to keep within the <hi>bounds</hi> of their <hi>callings</hi> and within the <hi>limits</hi> that God hath cir<g ref="char:EOLhyphen"/>cumſcribed about them in their <hi>relations,</hi> and <hi>places,</hi> to <hi>hear with the infirmities of one another,</hi> and make a <hi>charitable interpretation of other mens actions,</hi> not taking upon them to judge farther then they can ſee, and caſt out that opinion which is the <hi>incendiary in all ſocieties,</hi> that the <hi>miſcariage</hi> of others <hi>towards us diſchargeth us of our duties towards them.</hi> Let us pardon one another, and believe that Chriſtians can forgive the greateſt injuries, 1 <hi>Theſ.</hi> 4.11. and let us <hi>ſtudy to be quiet, and do our own buſineſs, Rom.</hi> 12.21. <hi>and labour to overcome evill with good.</hi> Which is the moſt glorious way of Conqueſt, and Victory over our <hi>Enemies.</hi> Let us agree in thoſe things wherin we do agree, and in that whereunto we have attained. <hi>Phil.</hi> 3.16. <hi>Let us walk by the ſame rule, and mind the ſame things,</hi> according to that excellent rule of the Apoſtle, <hi>let us put on peaceable affections and pray for peace,</hi> and not ſuffer <hi>dif<g ref="char:EOLhyphen"/>ference</hi> in <hi>opinions,</hi> to diſcharge from <hi>Chriſtian love and Communion,</hi> which is the great door, at which we muſt en<g ref="char:EOLhyphen"/>ter
+<pb n="7" facs="tcp:106524:6"/>
+               <!-- PDF PAGE 20 -->to mutuall edification. <hi>And let it be remembred that when the Lord is pleaſed to make overtures of peace, they that do hinder it, either out of ſtudy of ſides, or for maintaining of parties, or for any other indirect end, ſhall anſwer to God for all the miſchief, and bloud, and ruine. that ſhall follow. From which dreadfull guilt the LORD deliver us.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
